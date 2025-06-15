@@ -1,8 +1,13 @@
 {
-  "name": "blueprint-theme",
-  "displayName": "Blueprint Theme",
+  "name": "blueprint-vscode-theme",
+  "displayName": "Blueprint VS Code Theme",
+  "publisher": "shieldsworks",
   "description": "A blueprint-inspired dark theme with white text on a blue background",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shieldsworks/vscode-blueprint-theme"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },

@@ -4,9 +4,7 @@ A VS Code theme inspired by architectural blueprints—deep blues and crisp whit
 
 ## Preview
 
-<!-- Add a screenshot here if you have one, e.g.:
-![Blueprint Theme Preview](./images/theme-preview.png)
--->
+![Blueprint Theme Preview](../images/screenshot.png)
 
 ## Installation
 
@@ -26,7 +24,7 @@ A VS Code theme inspired by architectural blueprints—deep blues and crisp whit
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/vscode-blueprint-theme.git
+   git clone https://github.com/shieldsworks/blueprint-theme.git
    cd vscode-blueprint-theme
    ```
 
