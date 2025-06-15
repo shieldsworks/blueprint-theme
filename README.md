@@ -4,7 +4,7 @@ A VS Code theme inspired by architectural blueprints—deep blues and crisp whit
 
 ## Preview
 
-![Blueprint Theme Preview](images/screenshot.png)
+![Blueprint Theme Preview](images/screenshot.jpg)
 
 ## Installation
 
