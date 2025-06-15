@@ -1,0 +1,21 @@
+{
+  "name": "blueprint-theme",
+  "displayName": "Blueprint Theme",
+  "description": "A blueprint-inspired dark theme with white text on a blue background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blueprint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blueprint-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Blueprint",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#1a2738",
+        "editor.foreground": "#ffffff",
+        "activityBar.background": "#152030",
+        "sideBar.background": "#152030",
+        "sideBar.foreground": "#ffffff",
+        "titleBar.activeBackground": "#152030",
+        "statusBar.background": "#152030",
+        "tab.activeBackground": "#1a2738",
+        "tab.inactiveBackground": "#152030",
+        "editorGroupHeader.tabsBackground": "#152030",
+        "list.activeSelectionBackground": "#2a3748",
+        "list.hoverBackground": "#2a3748",
+        "input.background": "#152030",
+        "dropdown.background": "#152030"
+    },
+    "tokenColors": [
+        {
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#6a8bb9"
+            }
+        },
+        {
+            "scope": ["string"],
+            "settings": {
+                "foreground": "#b4d8fd"
+            }
+        },
+        {
+            "scope": ["keyword"],
+            "settings": {
+                "foreground": "#e6e6e6"
+            }
+        },
+        {
+            "scope": ["variable"],
+            "settings": {
+                "foreground": "#ffffff"
+            }
+        },
+        {
+            "scope": ["entity.name.function", "support.function"],
+            "settings": {
+                "foreground": "#9ecfff"
+            }
+        },
+        {
+            "scope": ["entity.name.type", "support.class"],
+            "settings": {
+                "foreground": "#c9e0ff"
+            }
+        },
+        {
+            "scope": ["constant.numeric"],
+            "settings": {
+                "foreground": "#a5d6ff"
+            }
+        }
+    ]
+}
